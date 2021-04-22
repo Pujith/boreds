@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
+@RequestMapping("/bored")
 public class BoredController {
 	
 	@GetMapping(value="/one")
