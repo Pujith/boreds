@@ -1,4 +1,6 @@
 # boreds
-Simple spring-boot application that says bored
+Simple spring-bootall gone waste
+ application that says bored
 That's it!!
-New addition
+Random bullcrap
+Corrrupted file
